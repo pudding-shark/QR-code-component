@@ -16,16 +16,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-This is my first frontend mentor challenge that I finished
 
 ### Screenshot
 
-![](./my-sussy-solution.png)
+![screenshot of the solution](./sussy-solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-Z3xFfWMHqT)
-- Live Site URL: [Add live site URL here](https://pudding-shark.github.io/QR-code-component/)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-Z3xFfWMHqT
+- Live Site URL: https://pudding-shark.github.io/QR-code-component/
 
 
 ### Built with

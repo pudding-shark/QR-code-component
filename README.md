@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learnt about the max-width property, creating variables in CSS, how to import fonts, and how adding value to height/width impacts how some properties are going to be used. I also learnt about
+I learnt about the max-width property, creating variables in CSS, how to import fonts, and how adding value to height/width impacts how some properties are going to be used.
 
 ### Continued development
 

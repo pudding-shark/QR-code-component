@@ -48,8 +48,8 @@ I will try learning about the basics on how to make websites more accessible. I 
 ## Author
 
 - GitHub - [pudding-shark](https://github.com/pudding-shark)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/pudding-shark)
+- Frontend Mentor - [@pudding-shark](https://www.frontendmentor.io/profile/pudding-shark)
 
 ## Acknowledgments
 
-Thanks to [Thomas Sankara](https://www.youtube.com/@tsbsankara), [W3Schools](https://www.w3schools.com/), and the random users in stack overflow that I forgot the name of!
+Thanks to [Thomas Sankara](https://www.youtube.com/@tsbsankara), [W3Schools](https://www.w3schools.com/), [Øystein Håberg](https://www.frontendmentor.io/profile/Islandstone89), [Rabel](https://www.frontendmentor.io/profile/Islandstone89), and the random users in stack overflow that I forgot the name of!

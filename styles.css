@@ -1,7 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+footer { font-size: 11px; }
+footer a { color: hsl(228, 45%, 44%); }
 
 :root {
 --white: hsl(0, 0%, 100%);
@@ -10,41 +16,42 @@
 --slate-900: hsl(218, 44%, 22%);
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body {
     display: flex;
     flex-direction: column;
     background-color: var(--slate-300);
     align-items: center;
     justify-content: center;
-    height: 580px;
-    font-size: 15px;
+    min-height: 100svh;
     font-family: "Outfit", sans-serif;
+    padding:1rem;
+    text-align: center;
 }
 
 .container {
     background-color: var(--white);
-    text-align: center;
-    border-radius: 10px;
-    width:250px;
+    border-radius: 15px;
+    max-width: 20rem;
     margin-bottom: 15px;
-    padding:12px;
+    padding:16px;
     box-shadow: 0 5px 5px 2px lightgray;
 }
 
+.container h2 {
+    font-size: 1.4rem;
+}
+
 img {
-    border-radius:5px;
+    display:block;
+    border-radius:10px;
     max-width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     color: var(--slate-900);
 }
 
-p {
-    margin: 10px 7px 15px;
-    font-size: 12px;
-    color: var(--slate-500)
+main p {
+    margin: 20px 7px 22px;
+    font-size: 0.96rem;
+    color: var(--slate-500);
+    line-height:1.4;
 }

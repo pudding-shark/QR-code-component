@@ -50,7 +50,7 @@ img {
 }
 
 main p {
-    margin: 20px 7px 22px;
+    margin: 20px 7px ;
     font-size: 0.96rem;
     color: var(--slate-500);
     line-height:1.4;

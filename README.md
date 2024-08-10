@@ -43,7 +43,6 @@ I will try learning about the basics on how to make websites more accessible. I 
 ### Useful resources
 
 - [Video I watched](https://www.youtube.com/watch?v=JFyMWwOxHYM) - This helped me move forward when I got stuck. I learnt how to declare variables in CSS, how to import font, and about the max-width property.
-- [Centering Div](https://www.w3schools.com/css/css_align.asp) - This taught me why some properties (i.e justify-content, align-items) did not work.
 
 ## Author
 
